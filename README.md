@@ -2,13 +2,6 @@
 
 This project aims to predict heart disease using machine learning models. The dataset used includes patient information such as age, sex, chest pain type, and various medical metrics.
 
-## Project Structure
-
-- **datasets/**: Contains the dataset used for the analysis and the SQL script to create and populate the MySQL database.
-- **models/**: Contains the saved machine learning model (Random Forest) with an AUC of 1.
-- **notebooks/**: Contains the Jupyter Notebook with the data analysis, model training, and evaluation.
-- **scripts/**: Contains Python scripts for analysis (if applicable).
-
 ## Getting Started
 
 1. Clone the repository:
